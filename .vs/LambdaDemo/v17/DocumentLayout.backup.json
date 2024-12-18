@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c#practice\\Collection in c#\\LambdaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|f:\\c#practice\\collection in c#\\lambdademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|f:\\c#practice\\collection in c#\\lambdademo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|solutionrelative:delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|f:\\c#practice\\collection in c#\\lambdademo\\lambdacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|solutionrelative:lambdacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|f:\\c#practice\\collection in c#\\lambdademo\\studentcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018C5623-8C8B-427B-B590-6A0E5EE6A700}|LambdaDemo.csproj|solutionrelative:studentcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentCustom.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\LambdaDemo\\StudentCustom.cs",
+              "RelativeDocumentMoniker": "StudentCustom.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\LambdaDemo\\StudentCustom.cs",
+              "RelativeToolTip": "StudentCustom.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:36:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LambdaCollection.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\LambdaDemo\\LambdaCollection.cs",
+              "RelativeDocumentMoniker": "LambdaCollection.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\LambdaDemo\\LambdaCollection.cs",
+              "RelativeToolTip": "LambdaCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:31:59.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\LambdaDemo\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "DelegateDemo.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\LambdaDemo\\DelegateDemo.cs",
+              "RelativeToolTip": "DelegateDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:05:10.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\LambdaDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\LambdaDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:48:09.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

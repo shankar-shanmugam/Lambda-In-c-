@@ -1,0 +1,14 @@
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.exe
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.deps.json
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.json
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.dev.json
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.dll
+F:\c#practice\Collection in c#\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.pdb
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfoInputs.cache
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfo.cs
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.csproj.CoreCompileInputs.cache
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.sourcelink.json
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.dll
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.pdb
+F:\c#practice\Collection in c#\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.genruntimeconfig.cache
