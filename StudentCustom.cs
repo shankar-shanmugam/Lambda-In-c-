@@ -13,7 +13,7 @@ namespace LambdaDemo
 
         public static void SortStudentsByName(List<StudentCustom> list)
         {
-
+            
           var s=  list.OrderBy((x) => x.Name);
             foreach(var x in s)
             {
